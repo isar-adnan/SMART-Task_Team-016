@@ -22,4 +22,4 @@ Clone the repository and add the files in the project folder like `/SMART-Task_T
 
 
 ### Note:
-We trained all the models on dbpedia dataset. The ttl files can be downloaded from http://downloads.dbpedia.org/2016-10/core/. once downloaded instance_types_en.ttl.bz2 and short_abstract_en.ttl.bz2 these files need to be moved under data folder. In order to extract bz2 files run the Compressing_bz2.py file to get ttl files. For further improvements we have implemented elasticsearch indexing in .ipynb file to understanding the process and seeing the results because we faced challenges in .py file.
+We trained all the models on dbpedia dataset. The ttl files can be downloaded from http://downloads.dbpedia.org/2016-10/core/. once downloaded instance_types_en.ttl.bz2 and short_abstract_en.ttl.bz2 these files need to be moved under data folder. In order to extract bz2 files run the Compressing_bz2.py file to get ttl files. For further improvements we have implemented elasticsearch indexing in .ipynb file to understand the process and seeing the results because we faced challenges in .py file.
