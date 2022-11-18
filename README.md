@@ -21,4 +21,5 @@ Clone the repository and add the files in the project folder like `/SMART-Task_T
 
 
 ### Note:
-We trained all the models on dbpedia dataset.
+We trained all the models on dbpedia dataset (Both json and ttl files).
+Libraries Used: numpy, sklearn, elasticsearch (Version: 7.17.6)
